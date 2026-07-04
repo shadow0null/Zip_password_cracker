@@ -3,12 +3,12 @@ from colorama import Fore ,Back ,Style ,init
 init (autoreset =True )
 def startMessage ():
     OO0O0OO0OOO0OO0O0 =input (Fore .YELLOW +"Enter Code To Unlock The Tool : ")
-    OOOO0OO000OO0OOOO ="QADIR"
+    OOOO0OO000OO0OOOO ="love"
     if OOOO0OO000OO0OOOO !=OO0O0OO0OOO0OO0O0 :
         print (Fore .RED +'[X] Wrong Code')
         print (Fore .BLUE +''' 
    1. Go to Insta and massage 
-   2. Insta ID: qadirahmad6291
+   2. Insta ID: Shadow0null
    3. Send massage for code
    4. Next time come with code and use this tool
    5. bye
